@@ -4,8 +4,6 @@ This is a multiplayer spelling bee game that I have been developing.
 
 I still haven't decided whether I want the code public yet, but you can play the game here: http://play.spelling-bee.xyz/
 
-It is written in: Node.js, Socket.IO, and Bootstrap + Standard Web.
-
 The back-end uses Node, Express, Socket.IO, and MongoDB.
 
 The front-end uses JQuery/JS/Socket.IO and Bootstrap + Standard Web.
